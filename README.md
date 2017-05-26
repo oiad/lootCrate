@@ -1,8 +1,9 @@
 # [EPOCH 1.0.6.1] Random position Loot Crate
 
-* Discussion URL: 
+* Discussion URL: https://epochmod.com/forum/topic/43992-release-random-position-loot-crate/
 	
 * Tested as working on a blank Epoch 1.0.6.1
+* Uses nested arrays to make loot lists easier to manage
 
 # REPORTING ERRORS/PROBLEMS
 
