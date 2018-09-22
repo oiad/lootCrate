@@ -3,7 +3,7 @@
 	
 	Arrays are set up to be in this format:
 	[["Weapon",5],"Weapon1"], // "Weapon" will be added to the crate 5 times since it's in its own array, "Weapon1" will be only added once.
-	[["Magazine,5"],"Magazine1"] // "Magazine" will be added to the crate 5 times since it's in its own array, "Magazine1" will be only added once.
+	[["Magazine",5"],"Magazine1"] // "Magazine" will be added to the crate 5 times since it's in its own array, "Magazine1" will be only added once.
 	
 	Sample array:
 	
